@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Baz.Domain/Baz.Domain.csproj" />
+  <Project Path="Baz.Infrastructure/Baz.Infrastructure.csproj" />
+  <Project Path="Baz.UseCases/Baz.UseCases.csproj" />
+  <Project Path="Baz.WebApi.UnitTests/Baz.WebApi.UnitTests.csproj" Id="d9545b3d-869a-46d5-90f5-81f9b96e3be5" />
+  <Project Path="Baz.WebApi/Baz.WebApi.csproj" />
+</Solution>
